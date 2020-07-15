@@ -1,0 +1,17 @@
+{
+  "common": {
+    "title": "Title",
+    "description": "Description",
+    "price": "Price"
+  },
+  "menu": {
+    "products": "Menu List"
+  
+  },
+  "validations": {
+    "default": "Field is not valid",
+    "required": "Field \"$t({{label}})\" is required",
+    "typeError": "Bad value type",
+    "numberMin": "Value of \"$t({{label}})\" must be bigger than {{min}}"
+  }
+}
